@@ -1,6 +1,11 @@
 # Sandboxium
 A sandboxed Chromium/Gecko based browser supporting more programming languages <br>
-Sandboxium has a setting to switch between Chromium (CEF) and Gecko (XULRunner/GeckoView) <br>
+Sandboxium has a setting to switch between Chromium (CEF/WebView) and Gecko (Firefox/GeckoView) <br>
+Sandboxium will have these releases: <br>
+Windows 10 or newer <br>
+macOS 10.15 or newer <br>
+Linux <br>
+Android 5.0 or newer <bR>
 Sandboxium supports these programming languages: <br>
 Flash (Ruffle) <br>
 Java (TeaVM) <br>
